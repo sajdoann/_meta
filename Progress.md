@@ -42,5 +42,14 @@ Zodpovědný: Richard Hájek
 ## ZNS - Teorie
 Zodpovědná: Anna Sajdoková
 
-- [ ] ????
-
+- [x] úvod
+- [x] části a typy zns
+- [x] metody interference
+- [x] tvorba zns
+- [x] neurčitost
+- [x] Bayesovské sítě
+- [x] Fuzzy systmémy
+- [x] klasifikační a regresní stromy
+- [ ] NN
+- [ ] extrakce pravidel z NN
+- [x] multiagentní systémy
