@@ -14,10 +14,6 @@
 
         ![ANKI%20f1ecc4c302ba44549cd9e18abdb432f8/Untitled.png](ANKI%20f1ecc4c302ba44549cd9e18abdb432f8/Untitled.png)
 
-    - *Vyberte vše v personal Fields, klidkněte ok (Možná ne we dont know what this does atm)*
-
-        ![ANKI%20f1ecc4c302ba44549cd9e18abdb432f8/Untitled%201.png](ANKI%20f1ecc4c302ba44549cd9e18abdb432f8/Untitled%201.png)
-
 ## JAK NAHRÁT BALÍČEK
 
 - Dodržujte formát názvu: [Teorie/Cviceni]::[předmět] (ostatní školy krom FIT ČVUT s prefixem)
