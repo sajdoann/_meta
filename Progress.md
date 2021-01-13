@@ -1,7 +1,7 @@
 ---
 title: Progress
 created: '2021-01-13T11:25:58.697Z'
-modified: '2021-01-13T11:33:11.638Z'
+modified: '2021-01-13T11:39:34.462Z'
 ---
 
 # Progress ANKI předmětů
@@ -38,3 +38,9 @@ Zodpovědný: Richard Hájek
 - Master Theorem	(pokračování cvičení 6)	
 - [x] Vlastnosti prvočísel a modulární aritmetika	
 - [x] Řešení lineárních kongruencí
+
+## ZNS - Teorie
+Zodpovědná: Anna Sajdoková
+
+- [ ] ????
+
