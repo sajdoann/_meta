@@ -30,11 +30,8 @@
 
 - Vytvořte nový repozitář se **stejným jménem** jako váš anki balíček
     - Používejte `_` místo `:` tj Teorie\_\_ZNS
-
-            ![ANKI%20f1ecc4c302ba44549cd9e18abdb432f8/Untitled%202.png](ANKI%20f1ecc4c302ba44549cd9e18abdb432f8/Untitled%202.png)
-
     - Nepřidávejte žádné další soubory
-
+            ![ANKI%20f1ecc4c302ba44549cd9e18abdb432f8/Untitled%202.png](ANKI%20f1ecc4c302ba44549cd9e18abdb432f8/Untitled%202.png)
 - Otevřete linuxový terminál ve složce ve SLOŽCE
 
     ```bash
