@@ -1,7 +1,7 @@
 ---
 title: Progress
 created: '2021-01-13T11:25:58.697Z'
-modified: '2021-01-15T00:30:50.817Z'
+modified: '2021-01-15T20:53:16.487Z'
 ---
 
 # Progress ANKI předmětů
@@ -38,6 +38,22 @@ Zodpovědný: Richard Hájek
 - Master Theorem	(pokračování cvičení 6)	
 - [x] Vlastnosti prvočísel a modulární aritmetika	
 - [x] Řešení lineárních kongruencí
+
+## MFF - AI1 - Teorie
+Zodpovědný: Richard Hájek
+
+- [x] Introduction, major topics, context, history, and applications of AI.
+- [ ] Intelligent agents, environment, structure of agents.
+- [ ] Problem solving, uninformed search algorithms. 		
+- [ ] Informed search algorithms and heuristics.
+- [ ] Local and on-line search algorithms. 	
+- [ ] Constraint satisfaction. 	
+- [ ] Adversarial search (games). 	
+- [ ] Knowledge representation, propositional logic. 	
+- [ ] First-order logic. 	
+- [ ] First-order logic: Inference Techniques. 	
+- [ ] Knowledge representation. 	
+- [ ] Automated planning. 	
 
 ## ZNS - Teorie
 Zodpovědná: Anna Sajdoková
