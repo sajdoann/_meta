@@ -19,9 +19,9 @@ Zodpovědný: Richard Hájek
 - [x] Homogenní rekurentní rovnice s konstantními koeficienty
 - [x] Nehomogenní rekurentní rovnice
 - [x] Složitost rekurzivních algoritmů, řešení rekurentních rovnic, Master Theorem
-- [ ] Základy teorie čísel, modulární aritmetika
-- [ ] Vlastnosti prvočísel, základní věta aritmetiky
-- [ ] Diofantické rovnice, lineární kongruence, Čínská věta o zbytcích
+- [x] Základy teorie čísel, modulární aritmetika
+- [x] Vlastnosti prvočísel, základní věta aritmetiky
+- [x] Diofantické rovnice, lineární kongruence, Čínská věta o zbytcích
 
 ## ZDM - Cvika
 Zodpovědný: Richard Hájek
