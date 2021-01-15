@@ -1,7 +1,7 @@
 ---
 title: Progress
 created: '2021-01-13T11:25:58.697Z'
-modified: '2021-01-13T11:39:34.462Z'
+modified: '2021-01-15T00:30:50.817Z'
 ---
 
 # Progress ANKI předmětů
@@ -28,7 +28,7 @@ Zodpovědný: Richard Hájek
 
 - [x] Asymptotické odhady růstu funkcí	
 - [x] Použití matematické indukce	
-- [ ] Vlastnosti množin a zobrazení	
+- [x] Vlastnosti množin a zobrazení	
 - [ ] Vlastností relací	
 - Uspořádání a ekvivalence	(pokračování cvičení 4)
 - [ ] Řešení kombinatorických úloh	
