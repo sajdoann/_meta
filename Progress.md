@@ -1,7 +1,7 @@
 ---
 title: Progress
 created: '2021-01-13T11:25:58.697Z'
-modified: '2021-01-15T20:53:16.487Z'
+modified: '2021-01-29T16:48:59.101Z'
 ---
 
 # Progress ANKI předmětů
@@ -11,11 +11,11 @@ Zodpovědný: Richard Hájek
 
 - [x] Odhady růstu funkcí, matematická indukce – slabá, silná, strukturální
 - [x] Množiny a zobrazení, základní vztahy a vlastnosti
-- [x] Binární relace (vlastnosti, reprezentace), skládání relací
+- [ ] Binární relace (vlastnosti, reprezentace), skládání relací
 - [x] Ekvivalence
 - [x] Uspořádání
 - [x] Kombinatorika
-- [x] Kombinatorika 2?
+- [ ] Kombinatorika 2?
 - [x] Homogenní rekurentní rovnice s konstantními koeficienty
 - [x] Nehomogenní rekurentní rovnice
 - [x] Složitost rekurzivních algoritmů, řešení rekurentních rovnic, Master Theorem
