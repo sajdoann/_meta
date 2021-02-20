@@ -1,10 +1,102 @@
 ---
-title: Progress
+title: Progress ANKI předmětů
 created: '2021-01-13T11:25:58.697Z'
-modified: '2021-01-29T16:48:59.101Z'
+modified: '2021-02-20T12:03:23.603Z'
 ---
 
 # Progress ANKI předmětů
+
+## BI-ZUM - Teorie
+Zodpovědný: Richard Hájek
+
+- [x] 1,2.	Definice umělé inteligence, historie, Turingův test. Neinformované prohledávání stavového prostoru
+- [ ] 3.	Informované prohledávání stavového prostoru: Dijkstra, heuristiky, Greedy search, A*
+- [ ] 4.	Optimalizace, algoritmy iterativního prohledávání
+- [ ] 5.	Automatické plánování: plánovací problém, plán, akce
+- [ ] 6.	Robotika, robotický hardware, plánování pohybu
+- [ ] 7.	Agentní systémy, rozhodování
+- [ ] 8.	Prohledávání herního stromu, algoritmus Minimax, alfa-beta prořezávání
+- [ ] 9.	Modelování úloh, CSP, SAT, kódování
+- [ ] 10.	Evoluční výpočetní techniky, genetický algoritmus
+
+## BI-PSI - Teorie
+Zodpovědný: Richard Hájek
+
+- [x] 1.	Úvod do počítačových sítí, IP adresace
+- [ ] 2.	Linková vrstva, Ethernet technologie	
+- [ ] 3.	VLAN, Síťová vrstva a IPv4	
+- [ ] 4.	IPv6	
+- [ ] 5.	Směrování v počítačových sítích	
+- [ ] 6.	Transportní vrstva, protokoly TCP a UDP	
+- [ ] 7.	Domain Name System - DNS, DNSSEC, DYNDNS, DoH	
+- [ ] 8.	Bezpečnost počítačových sítí, firewally, IDS/IPS, honeypoty	
+- [ ] 9.	Virtuální privátní sítě, síť Tor, anonymita v Internetu	
+- [ ] 10. Aplikační vrstva, principy a protokoly	
+- [ ] 11. Bezdrátové počítačové sítě, IEEE 802.11 b/g/a/n/ac/ax	
+- [ ] 12. Distribuce internetu a optické sítě	
+
+## BI-BEZ - Teorie
+Zodpovědný: Richard Hájek
+
+- [x] 1.	Základní pojmy v kryptologii, substituční šifry. Blokové, transpoziční šifry
+- [x] 2.	Exponenciální šifra, zřízení společného klíče a problém diskrétního logaritmu
+- [ ] 3.	Rozdělení šifer, proudové šifry, RC4, A5/1
+- [ ] 4.	Blokové šifry, DES, 3DES, AES, operační módy blokových šifer
+- [ ] 5.	Hašovací funkce, MD5, SHA-x, HMAC.
+- [ ] 6.	RSA, problém faktorizace. Kryptografie s veřejným klíčem, El-Gamalův algoritmus, DSA
+- [ ] 7.	Bezpečnost kryptografických systémů z hlediska teorií informace a složitosti
+- [ ] 8.	Základy kryptografie eliptických křivek a kvantové kryptografie
+- [ ] 9.	Generování klíčů, Rabin-Millerův test, náhodné generátory; Čínská věta o zbytcích, kvadratická rezidua, generátory
+- [ ] 10.	Úvod do zabezpečení pomocí čipových karet
+- [ ] 11.	Infrastruktura veřejného klíče
+- [ ] 12.	IT bezpečnost
+
+## BI-OSY - Teorie
+Zodpovědný: Richard Hájek
+
+- [x] 1.	Úvod a defince pojmů.		
+- [ ] 2.	Procesy a vlákna. Časově závislé chyby. Kritické sekce.		Examples
+- [ ] 3.	Synchronizace vláken.		
+- [ ] 4.	Klasické synchronizační problémy.		
+- [ ] 5.	Uváznutí.		
+- [ ] 6.	Implementace procesů a vláken. Plánování vláken.		
+- [ ] 7.	Správa paměti: úvod.		
+- [ ] 8.	Správa paměti: virtuální paměť a stránkování.		
+- [ ] 9.	Správa paměti: Segmentace, algoritmy pro náhradu stránek,…​		Examples
+- [ ] 10.	Datová úložiště: HDD, SDD, RAID, DAS, NAS, SAN		
+- [ ] 11.	Systémy souborů I.		
+- [ ] 12.	Systémy souborů II.		
+
+## BI-VWM - Teorie
+Zodpovědný: Richard Hájek
+- [ ] 1. 	Webový prostor, vyhledávače a modality vyhledávání na webu.
+- [ ] 2. 	Boolský model v information retrieval. 	
+- [ ] 3. 	Vektorový model v information retrieval. 	
+- [ ] 4. 	Analýza odkazů na webu a PageRank. 	
+- [ ] 5. 	Řazení webových stránek a jejich optimalizace pro vyhledávače (SEO). 	
+- [ ] 6. 	Sémantický web a Linked data. 	
+- [ ] 7. 	Personalizované vyhledávání a sociální kontext. 	
+- [ ] 8. 	Úvod do podobnostního vyhledávání v multimediálních databázích. 	
+- [ ] 9. 	Indexování metrické podobnosti pro rychlé vyhledávání v multimediálních databázích. 	
+- [ ] 10. Aproximativní podobnostní vyhledávání. 	
+- [ ] 11. Podobnostní dotazy a multi-modální vyhledávání.
+
+## BI-SI1.2 - Teorie
+Zodpovědný: Richard Hájek
+- [ ] 1. 	lichý 	18.02.2021 	Úvod do SI a týmového vývoje 	úvod do cvičení, týmové nástroje 	
+- [ ] 2. 	sudý 	25.02.2021 	Modelování obchodních procesů 		úvod do cvičení, týmové nástroje
+- [ ] 3. 	lichý 	04.03.2021 	Požadavky a případy užití 	analýza a modelování 1 	
+- [ ] 4. 	sudý 	11.03.2021 	Analýza problémové domény - třídy, atributy, stavy, relace 		analýza a modelování 1
+- [ ] 5. 	lichý 	18.03.2021 	Návrh softwarových systémů 	1. iterace 	
+- [ ] 6. 	sudý 	25.03.2021 	Architektonické vzory 		1. iterace
+- [ ] 7. 	lichý 	01.04.2021 	Návrhové vzory a komponenty 	návrh a modelování 2 	
+- [ ] 8. 	sudý 	08.04.2021 	Implementace 		návrh a modelování 2
+- [ ] 9. 	lichý 	15.04.2021 	Testování aplikací 	2. iterace 	
+- [ ] 10. 	sudý 	22.04.2021 	Automatizace sestavení a integrace aplikací 		2. iterace
+- [ ] 11. 	lichý 	29.04.2021 	Metodiky vývoje 	3. iterace 	
+- [ ] 12. 	sudý 	06.05.2021 	Agilní přístup a metodiky 		3. iterace
+
+***
 
 ## ZDM - Teorie
 Zodpovědný: Richard Hájek
@@ -43,15 +135,15 @@ Zodpovědný: Richard Hájek
 Zodpovědný: Richard Hájek
 
 - [x] Introduction, major topics, context, history, and applications of AI.
-- [ ] Intelligent agents, environment, structure of agents.
-- [ ] Problem solving, uninformed search algorithms. 		
-- [ ] Informed search algorithms and heuristics.
-- [ ] Local and on-line search algorithms. 	
-- [ ] Constraint satisfaction. 	
-- [ ] Adversarial search (games). 	
-- [ ] Knowledge representation, propositional logic. 	
-- [ ] First-order logic. 	
-- [ ] First-order logic: Inference Techniques. 	
+- [x] Intelligent agents, environment, structure of agents.
+- [x] Problem solving, uninformed search algorithms. 		
+- [x] Informed search algorithms and heuristics.
+- [x] Local and on-line search algorithms. 	
+- [x] Constraint satisfaction. 	
+- [x] Adversarial search (games). 	
+- [x] Knowledge representation, propositional logic. 	
+- [x] First-order logic. 	
+- [x] First-order logic: Inference Techniques. 	
 - [ ] Knowledge representation. 	
 - [ ] Automated planning. 	
 
