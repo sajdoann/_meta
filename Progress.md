@@ -1,7 +1,7 @@
 ---
 title: Progress ANKI předmětů
 created: '2021-01-13T11:25:58.697Z'
-modified: '2021-02-20T12:03:23.603Z'
+modified: '2021-02-20T16:24:32.986Z'
 ---
 
 # Progress ANKI předmětů
@@ -55,8 +55,8 @@ Zodpovědný: Richard Hájek
 Zodpovědný: Richard Hájek
 
 - [x] 1.	Úvod a defince pojmů.		
-- [ ] 2.	Procesy a vlákna. Časově závislé chyby. Kritické sekce.		Examples
-- [ ] 3.	Synchronizace vláken.		
+- [x] 2.	Procesy a vlákna. Časově závislé chyby. Kritické sekce.		Examples
+- [x] 3.	Synchronizace vláken.		
 - [ ] 4.	Klasické synchronizační problémy.		
 - [ ] 5.	Uváznutí.		
 - [ ] 6.	Implementace procesů a vláken. Plánování vláken.		
