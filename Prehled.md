@@ -1,6 +1,6 @@
 # Přehled vytvořených Anki kartiček
 
-Upozornění: Tato stránka slouží pouze jako. Stavy jednotlibých balíčků se nachází na [jiné stránce](Progress.md).
+Upozornění: Tato stránka slouží pouze jako. Stavy jednotlivých balíčků se nachází na [jiné stránce](Progress.md).
 
 ## 4. Semestr
 
