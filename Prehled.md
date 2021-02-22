@@ -4,7 +4,7 @@ Upozornění: Tato stránka slouží pouze jako. Stavy jednotlivých balíčků 
 
 ## 4. Semestr
 
-### Teore
+### Teorie
 
 - BI-BEZ: `https://github.com/anki-all-stars/Teorie__BEZ.git`
 - BI-OSY: `https://github.com/anki-all-stars/Teorie__OSY.git`
@@ -19,7 +19,7 @@ Upozornění: Tato stránka slouží pouze jako. Stavy jednotlivých balíčků 
 
 ## 3. Semestr
 
-### Teore
+### Teorie
 
 - BI-ZDM: `https://github.com/anki-all-stars/Teorie__ZDM.git`
 - BI-ZNS: `https://github.com/anki-all-stars/Teorie__ZNS.git`
