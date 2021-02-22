@@ -14,15 +14,15 @@ Protože Anki Vás naučí téma ať chcete nebo ne. Při klasickém učení se 
 
 ## Jak začít?
 
-- 1. Krok - Stáhnout si Anki [zde](https://apps.ankiweb.net/)
+1. Krok - Stáhnout si Anki [zde](https://apps.ankiweb.net/)
 
-- 2. Krok - Stáhnout si doplněk CrowdAnki
+2. Krok - Stáhnout si doplněk CrowdAnki
 	- Tento doplňek zprostředkovává sdílení kartiček
 	- V Anki je v hlavním panelu menu `tools`. V něm je manažer addonů: `addons`.
 	- V tomto manažeru doplňků probíhá přidání CrowdAnki kliknutím na `Get Add-ons...` a zadáním kódu `1788670778`
 	- Více infromací o doplňku se nachází [zde](https://ankiweb.net/shared/info/1788670778)
 
-- 3. Krok - Importujte libovolný předmět!
+3. Krok - Importujte libovolný předmět!
 	- V přehledu předmětů [Předhled.md](Prehled.md) se nachází odkazy na zpracované předměty, u každého se nachází link
 		- Například: `https://github.com/anki-all-stars/Teorie__ZDM.git`
 	- V aplikaci, v hlavním menu se CrowdAnki nachází pod `File -> CrowdAnki: Import git repository`
