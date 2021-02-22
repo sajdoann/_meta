@@ -27,7 +27,6 @@ Protože Anki Vás naučí téma ať chcete nebo ne. Při klasickém učení se 
 		- Například: `https://github.com/anki-all-stars/Teorie__ZDM.git`
 	- V aplikaci, v hlavním menu se CrowdAnki nachází pod `File -> CrowdAnki: Import git repository`
 	- Po vložení linku z přehledu do `CrowdAnki: Import git repository` a odsouhlasení přednastavených hodnot je k dispozici předmět na lokálním Anki
-        ![ANKI%20f1ecc4c302ba44549cd9e18abdb432f8/Untitled.png](ANKI%20f1ecc4c302ba44549cd9e18abdb432f8/Untitled.png)
 
 ## Jak přispívat?
 
