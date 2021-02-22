@@ -36,7 +36,7 @@ Protože Anki Vás naučí téma ať chcete nebo ne. Při klasickém učení se 
 - Dodržujte tagování balíčků!
     - Tag by měl obsahovat název předmětu, týden a název prezentace, například: ZNS-01-úvod
 
-- Expotujte balíček do Crowd Anki uložte si ho do libovolné SLOŽKY
+- Exportujte balíček do Crowd Anki uložte si ho do libovolné SLOŽKY
 
 - Vytvořte nový repozitář se **stejným jménem** jako váš anki balíček
     - Používejte `_` místo `:` tj Teorie\_\_ZNS
