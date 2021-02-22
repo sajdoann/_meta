@@ -1,6 +1,6 @@
-# ANKI
+# Anki! 
 
-## Co je ANKI?
+## Co je Anki?
 
 Anki je učící nástroj na bázi elektronických kartiček. Studium Anki kartiček probíhá tak, že Vám nejdříve Anki ukáže kartičku poprvé a dále Vám ji ukazuje podle toho jak moc dané téma umíte. Pokud často odpovíte špatně, Anki Vám tu kartičku bude ukazovat třeba každých pár dnů. Pokud na kartičku odpovídáte dobře, Anki Vám ji ukáže jednou za měsíc. Tato metoda učení se nazývá [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition) a je [obecně považována](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5126970/) za [velmi dobrou](http://psychnet.wustl.edu/coglab/wp-content/uploads/2015/01/2007-Is-expanded.pdf) [metodu](https://www.theguardian.com/education/2016/jan/23/spaced-repetition-a-hack-to-make-your-brain-store-information).
 
@@ -30,19 +30,20 @@ Protože Anki Vás naučí téma ať chcete nebo ne. Při klasickém učení se 
 
 ## Jak přispívat?
 
-- Dodržujte formát názvu: [Teorie/Cviceni]::[předmět] (ostatní školy krom FIT ČVUT s prefixem)
+- Založte v Anki nový balíček, prosím používejte následující pojmenování: [Teorie/Cviceni]::[předmět]
     - Například Teorie::ZNS
 
-- Dodržujte tagování balíčků!
-    - Tag by měl obsahovat název předmětu, týden a název prezentace, například: ZNS-01-úvod
+- Vytvořte kartičky do daného předmětu
+    - Zkuste dodržovat tagy! Tag by měl obsahovat název předmětu, týden a název prezentace, například: ZNS-01-úvod
 
-- Exportujte balíček do Crowd Anki uložte si ho do libovolné SLOŽKY
+- Balíček exportujte pomocí CrowdAnki do libovolné složky
 
 - Vytvořte nový repozitář se **stejným jménem** jako váš anki balíček
     - Používejte `_` místo `:` tj Teorie\_\_ZNS
     - Nepřidávejte žádné další soubory
             ![ANKI%20f1ecc4c302ba44549cd9e18abdb432f8/Untitled%202.png](ANKI%20f1ecc4c302ba44549cd9e18abdb432f8/Untitled%202.png)
-- Otevřete linuxový terminál ve složce ve SLOŽCE
+
+- Otevřete linuxový terminál v dané složce
 
     ```bash
     git init
@@ -53,7 +54,3 @@ Protože Anki Vás naučí téma ať chcete nebo ne. Při klasickém učení se 
     ```
 
     - Pokud nemáte přístup k Linux terminálu, je tento krok možné provést i jinak, více se dozvíte na stránce addonu
-
-## Názvy balíčků:
-
-- Název se skládá z typu balíčku (Teorie/Cvika) a předmětu bez jakýchkoli zbytečných symbolů (Např. Teorie::ZNS nebo Cvika::ZDM)
