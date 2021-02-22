@@ -1,7 +1,7 @@
 ---
 title: Progress ANKI předmětů
 created: '2021-01-13T11:25:58.697Z'
-modified: '2021-02-20T16:24:32.986Z'
+modified: '2021-02-22T14:29:38.937Z'
 ---
 
 # Progress ANKI předmětů
@@ -23,7 +23,7 @@ Zodpovědný: Richard Hájek
 Zodpovědný: Richard Hájek
 
 - [x] 1.	Úvod do počítačových sítí, IP adresace
-- [ ] 2.	Linková vrstva, Ethernet technologie	
+- [x] 2.	Linková vrstva, Ethernet technologie	
 - [ ] 3.	VLAN, Síťová vrstva a IPv4	
 - [ ] 4.	IPv6	
 - [ ] 5.	Směrování v počítačových sítích	
