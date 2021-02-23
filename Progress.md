@@ -1,7 +1,7 @@
 ---
 title: Progress ANKI předmětů
 created: '2021-01-13T11:25:58.697Z'
-modified: '2021-02-22T14:29:38.937Z'
+modified: '2021-02-23T22:01:18.292Z'
 ---
 
 # Progress ANKI předmětů
@@ -10,8 +10,8 @@ modified: '2021-02-22T14:29:38.937Z'
 Zodpovědný: Richard Hájek
 
 - [x] 1,2.	Definice umělé inteligence, historie, Turingův test. Neinformované prohledávání stavového prostoru
-- [ ] 3.	Informované prohledávání stavového prostoru: Dijkstra, heuristiky, Greedy search, A*
-- [ ] 4.	Optimalizace, algoritmy iterativního prohledávání
+- [x] 3.	Informované prohledávání stavového prostoru: Dijkstra, heuristiky, Greedy search, A*
+- [x] 4.	Optimalizace, algoritmy iterativního prohledávání
 - [ ] 5.	Automatické plánování: plánovací problém, plán, akce
 - [ ] 6.	Robotika, robotický hardware, plánování pohybu
 - [ ] 7.	Agentní systémy, rozhodování
