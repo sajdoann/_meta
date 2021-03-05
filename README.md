@@ -22,7 +22,12 @@ Protože Anki Vás naučí téma ať chcete nebo ne. Při klasickém učení se 
 	- V tomto manažeru doplňků probíhá přidání CrowdAnki kliknutím na `Get Add-ons...` a zadáním kódu `1788670778`
 	- Více infromací o doplňku se nachází [zde](https://ankiweb.net/shared/info/1788670778)
 
-3. Krok - Importujte libovolný předmět!
+3. Krok - Stáhnout si doplněk Anki All Stars Auto Updater ( EXPERIMENTÁLNÍ )
+	- Tento doplněk zpracovává synchronizaci všech Anki-All-Stars kartiček jedním stiskem tlačítka!
+	- V manažeru doplňků se přidává pomocí kódu `2013989921`. Stránka doplňku je [zde](https://ankiweb.net/shared/info/2013989921)
+	- Po nainstalování lze stáhnout všechny nové úpravy pomocí `Tools -> Update all Anki-All-Stars decks`
+
+4. Krok - Importujte libovolný předmět!
 	- V přehledu předmětů [Předhled.md](Prehled.md) se nachází odkazy na zpracované předměty, u každého se nachází link
 		- Například: `https://github.com/anki-all-stars/Teorie__ZDM.git`
 	- V aplikaci, v hlavním menu se CrowdAnki nachází pod `File -> CrowdAnki: Import git repository`
