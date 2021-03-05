@@ -21,6 +21,8 @@ Upozornění: Tato stránka slouží pouze jako. Stavy jednotlivých balíčků 
 
 ### Teorie
 
+- BI-AAG: `https://github.com/anki-all-stars/Teorie__AAG.git`
+- BI-AG1: `https://github.com/anki-all-stars/Teorie__AG1.git`
 - BI-ZDM: `https://github.com/anki-all-stars/Teorie__ZDM.git`
 - BI-ZNS: `https://github.com/anki-all-stars/Teorie__ZNS.git`
 
