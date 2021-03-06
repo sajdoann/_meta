@@ -1,7 +1,7 @@
 ---
 title: Progress ANKI předmětů
 created: '2021-01-13T11:25:58.697Z'
-modified: '2021-03-06T12:21:58.983Z'
+modified: '2021-03-06T20:43:55.088Z'
 ---
 
 # Progress ANKI předmětů
@@ -25,7 +25,7 @@ Zodpovědný: Richard Hájek
 - [x] 1.	Úvod do počítačových sítí, IP adresace
 - [x] 2.	Linková vrstva, Ethernet technologie	
 - [ ] 3.	VLAN, Síťová vrstva a IPv4	
-- [ ] 4.	IPv6	
+- [x] 4.	IPv6	
 - [ ] 5.	Směrování v počítačových sítích	
 - [ ] 6.	Transportní vrstva, protokoly TCP a UDP	
 - [ ] 7.	Domain Name System - DNS, DNSSEC, DYNDNS, DoH	
