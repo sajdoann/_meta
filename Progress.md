@@ -1,7 +1,7 @@
 ---
 title: Progress ANKI předmětů
 created: '2021-01-13T11:25:58.697Z'
-modified: '2021-02-23T22:01:18.292Z'
+modified: '2021-03-06T12:19:15.299Z'
 ---
 
 # Progress ANKI předmětů
@@ -96,7 +96,43 @@ Zodpovědný: Richard Hájek
 - [ ] 11. 	lichý 	29.04.2021 	Metodiky vývoje 	3. iterace 	
 - [ ] 12. 	sudý 	06.05.2021 	Agilní přístup a metodiky 		3. iterace
 
-***
+
+
+## AAG - Teorie
+Zodpovědný: Richard Hájek
+Autor: Ing. Eliška Šestáková & spol
+
+- [x] 1.	Základní pojmy, Chomského hierarchie
+- [x] 2.	Deterministické a nedeterministické konečné automaty
+- [x] 3.	Operace s konečnými automaty
+- [x] 4.	Regulární výrazy
+- [x] 5.	Převody mezi RG, RV a KA
+- [x] 6.	Vlastnosti regulárních jazyků
+- [x] 7.	Bezkontextové gramatiky
+- [x] 8.	Zásobníkové automaty
+- [x] 9.	Překladové automaty
+- [x] 10.	Jazyky kontextové, neomezené. Turingův stroj.
+- [x] 11.	Programová a obvodová realizace NKA a DKA
+- [x] 12.	Konečný automat jako lexikální analyzátor
+
+## AG1 - Teorie
+Zodpovědný: Richard Hájek
+Autor: Ing. Eliška Šestáková & spol
+
+- [x] 1. Motivace a úvod do teorie grafů.
+- [x] 2. Státní svátek
+- [x] 3. Základní definice a pojmy teorie grafů I.
+- [x] 4. Základní definice a pojmy teorie grafů II.
+- [x] 5. Řadící algoritmy O(n²). Binární haldy.
+- [x] 6. Nafukovací pole, amortizovaná složitost. binomiální haldy.
+- [x] 7. Vyhledávací stromy a jejich vyvažování.
+- [x] 8. Úvod do randomizace, hešování.
+- [x] 9. Rekurzivní algoritmy a metoda Rozděl a panuj.
+- [x] 10. QuickSort. Speciální algoritmy řazení.
+- [x] 11. Dynamické programování.
+- [x] 12. Minimální kostry grafu.
+- [x] 13. Nejkratší cesty v grafech.
+
 
 ## ZDM - Teorie
 Zodpovědný: Richard Hájek
