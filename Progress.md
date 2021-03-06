@@ -1,7 +1,7 @@
 ---
 title: Progress ANKI předmětů
 created: '2021-01-13T11:25:58.697Z'
-modified: '2021-03-06T12:19:15.299Z'
+modified: '2021-03-06T12:21:58.983Z'
 ---
 
 # Progress ANKI předmětů
@@ -96,10 +96,11 @@ Zodpovědný: Richard Hájek
 - [ ] 11. 	lichý 	29.04.2021 	Metodiky vývoje 	3. iterace 	
 - [ ] 12. 	sudý 	06.05.2021 	Agilní přístup a metodiky 		3. iterace
 
-
+***
 
 ## AAG - Teorie
 Zodpovědný: Richard Hájek
+
 Autor: Ing. Eliška Šestáková & spol
 
 - [x] 1.	Základní pojmy, Chomského hierarchie
@@ -117,6 +118,7 @@ Autor: Ing. Eliška Šestáková & spol
 
 ## AG1 - Teorie
 Zodpovědný: Richard Hájek
+
 Autor: Ing. Eliška Šestáková & spol
 
 - [x] 1. Motivace a úvod do teorie grafů.
