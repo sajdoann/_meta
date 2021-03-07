@@ -1,3 +1,9 @@
+---
+title: ANKI_README
+created: '2021-03-05T10:30:45.577Z'
+modified: '2021-03-07T14:13:38.445Z'
+---
+
 # Anki! 
 
 ## Co je Anki?
@@ -26,6 +32,7 @@ Protože Anki Vás naučí téma ať chcete nebo ne. Při klasickém učení se 
 	- Tento doplněk zpracovává synchronizaci všech Anki-All-Stars kartiček jedním stiskem tlačítka!
 	- V manažeru doplňků se přidává pomocí kódu `2013989921`. Stránka doplňku je [zde](https://ankiweb.net/shared/info/2013989921)
 	- Po nainstalování lze stáhnout všechny nové úpravy pomocí `Tools -> Update all Anki-All-Stars decks`
+    - **Tento doplňek se prozatím často rozbíjí, každopádně manuální import funguje stejně akorát s více kroky**
 
 4. Krok - Importujte libovolný předmět!
 	- V přehledu předmětů [Předhled.md](Prehled.md) se nachází odkazy na zpracované předměty, u každého se nachází link
