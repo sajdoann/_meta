@@ -1,9 +1,3 @@
----
-title: ANKI_README
-created: '2021-03-05T10:30:45.577Z'
-modified: '2021-03-07T14:13:38.445Z'
----
-
 # Anki! 
 
 ## Co je Anki?
