@@ -1,7 +1,7 @@
 ---
 title: Progress ANKI předmětů
 created: '2021-01-13T11:25:58.697Z'
-modified: '2021-03-07T18:18:12.041Z'
+modified: '2021-03-14T10:25:07.524Z'
 ---
 
 # Progress ANKI předmětů
@@ -24,7 +24,7 @@ Zodpovědný: Richard Hájek
 
 - [x] 1.	Úvod do počítačových sítí, IP adresace
 - [x] 2.	Linková vrstva, Ethernet technologie	
-- [ ] 3.	VLAN, Síťová vrstva a IPv4	
+- [x] 3.	VLAN, Síťová vrstva a IPv4	
 - [x] 4.	IPv6	
 - [ ] 5.	Směrování v počítačových sítích	
 - [ ] 6.	Transportní vrstva, protokoly TCP a UDP	
@@ -41,7 +41,7 @@ Zodpovědný: Richard Hájek
 - [x] 1.	Základní pojmy v kryptologii, substituční šifry. Blokové, transpoziční šifry
 - [x] 2.	Exponenciální šifra, zřízení společného klíče a problém diskrétního logaritmu
 - [x] 3.	Rozdělení šifer, proudové šifry, RC4, A5/1
-- [ ] 4.	Blokové šifry, DES, 3DES, AES, operační módy blokových šifer
+- [x] 4.	Blokové šifry, DES, 3DES, AES, operační módy blokových šifer
 - [ ] 5.	Hašovací funkce, MD5, SHA-x, HMAC.
 - [ ] 6.	RSA, problém faktorizace. Kryptografie s veřejným klíčem, El-Gamalův algoritmus, DSA
 - [ ] 7.	Bezpečnost kryptografických systémů z hlediska teorií informace a složitosti
@@ -83,18 +83,18 @@ Zodpovědný: Richard Hájek
 
 ## BI-SI1.2 - Teorie
 Zodpovědný: Richard Hájek
-- [ ] 1. 	lichý 	18.02.2021 	Úvod do SI a týmového vývoje 	úvod do cvičení, týmové nástroje 	
-- [ ] 2. 	sudý 	25.02.2021 	Modelování obchodních procesů 		úvod do cvičení, týmové nástroje
-- [ ] 3. 	lichý 	04.03.2021 	Požadavky a případy užití 	analýza a modelování 1 	
-- [ ] 4. 	sudý 	11.03.2021 	Analýza problémové domény - třídy, atributy, stavy, relace 		analýza a modelování 1
-- [ ] 5. 	lichý 	18.03.2021 	Návrh softwarových systémů 	1. iterace 	
-- [ ] 6. 	sudý 	25.03.2021 	Architektonické vzory 		1. iterace
-- [ ] 7. 	lichý 	01.04.2021 	Návrhové vzory a komponenty 	návrh a modelování 2 	
-- [ ] 8. 	sudý 	08.04.2021 	Implementace 		návrh a modelování 2
-- [ ] 9. 	lichý 	15.04.2021 	Testování aplikací 	2. iterace 	
-- [ ] 10. 	sudý 	22.04.2021 	Automatizace sestavení a integrace aplikací 		2. iterace
-- [ ] 11. 	lichý 	29.04.2021 	Metodiky vývoje 	3. iterace 	
-- [ ] 12. 	sudý 	06.05.2021 	Agilní přístup a metodiky 		3. iterace
+- [ ] 1. 	Úvod do SI a týmového vývoje 	úvod do cvičení, týmové nástroje 	
+- [ ] 2. 	Modelování obchodních procesů 		úvod do cvičení, týmové nástroje
+- [ ] 3. 	Požadavky a případy užití 	analýza a modelování 1 	
+- [ ] 4. 	Analýza problémové domény - třídy, atributy, stavy, relace 		analýza a modelování 1
+- [ ] 5. 	Návrh softwarových systémů 	1. iterace 	
+- [ ] 6. 	Architektonické vzory 		1. iterace
+- [ ] 7. 	Návrhové vzory a komponenty 	návrh a modelování 2 	
+- [ ] 8. 	Implementace 		návrh a modelování 2
+- [ ] 9. 	Testování aplikací 	2. iterace 	
+- [ ] 10. 	Automatizace sestavení a integrace aplikací 		2. iterace
+- [ ] 11. 	Metodiky vývoje 	3. iterace 	
+- [ ] 12. 	Agilní přístup a metodiky 		3. iterace
 
 ***
 
