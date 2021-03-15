@@ -1,7 +1,7 @@
 ---
 title: Progress ANKI předmětů
 created: '2021-01-13T11:25:58.697Z'
-modified: '2021-03-14T10:25:07.524Z'
+modified: '2021-03-15T13:45:13.177Z'
 ---
 
 # Progress ANKI předmětů
@@ -42,7 +42,7 @@ Zodpovědný: Richard Hájek
 - [x] 2.	Exponenciální šifra, zřízení společného klíče a problém diskrétního logaritmu
 - [x] 3.	Rozdělení šifer, proudové šifry, RC4, A5/1
 - [x] 4.	Blokové šifry, DES, 3DES, AES, operační módy blokových šifer
-- [ ] 5.	Hašovací funkce, MD5, SHA-x, HMAC.
+- [x] 5.	Hašovací funkce, MD5, SHA-x, HMAC.
 - [ ] 6.	RSA, problém faktorizace. Kryptografie s veřejným klíčem, El-Gamalův algoritmus, DSA
 - [ ] 7.	Bezpečnost kryptografických systémů z hlediska teorií informace a složitosti
 - [ ] 8.	Základy kryptografie eliptických křivek a kvantové kryptografie
