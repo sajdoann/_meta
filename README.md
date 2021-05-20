@@ -56,7 +56,8 @@ Protože Anki Vás naučí téma ať chcete nebo ne. Při klasickém učení se 
     git add .
     git commit -m "added anki package Teorie::ZNS"  
     git branch -M main
-    git remote add origin git@github.com:anki-all-stars/Teorie__ZNS.gitgit push -u origin main
+    git remote add origin git@github.com:anki-all-stars/Teorie__ZNS.git
+    git push -u origin main
     ```
 
     - Pokud nemáte přístup k Linux terminálu, je tento krok možné provést i jinak, více se dozvíte na stránce addonu
